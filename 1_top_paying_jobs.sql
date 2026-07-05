@@ -24,7 +24,7 @@ WHERE
     job_title_short = 'Data Analyst'
         AND salary_year_avg IS NOT NULL
         AND job_work_from_home = 'TRUE'
-        #and job_country='India' if searching within INDIA
+        --and job_country='India' --#if searching within INDIA
 ORDER BY salary_year_avg DESC
 LIMIT 10;
 
