@@ -1,4 +1,4 @@
-📌 Project Overview
+#📌 Project Overview
 
 This project analyzes thousands of Data Analyst job postings using SQL to uncover salary trends, required technical skills, and the most valuable technologies in today's job market.
 
@@ -12,7 +12,7 @@ Which skills provide the highest average salary?
 
 The project demonstrates practical SQL skills including joins, Common Table Expressions (CTEs), aggregation, filtering, sorting, and business-oriented data analysis.
 
-Technologies Used
+# Technologies Used
 SQL
 MySQL
 Joins
@@ -28,7 +28,7 @@ job_fact	Job postings information
 company_dim	Company details
 skill_dim	Skill names
 com_skill	Bridge table connecting jobs and skills
-Project Workflow
+# Project Workflow
 Understand Business Questions
         ↓
 Explore Database
@@ -42,7 +42,7 @@ Analyze Salary Trends
 Analyze Required Skills
         ↓
 Generate Business Insights
-Query Sequence
+$ Query Sequence
 1️⃣ Top Paying Data Analyst Jobs
 Objective
 
