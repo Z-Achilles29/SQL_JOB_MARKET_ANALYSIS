@@ -1,4 +1,4 @@
-#📌 Project Overview
+📌 # Project Overview
 
 This project analyzes thousands of Data Analyst job postings using SQL to uncover salary trends, required technical skills, and the most valuable technologies in today's job market.
 
@@ -42,8 +42,8 @@ Analyze Salary Trends
 Analyze Required Skills
         ↓
 Generate Business Insights
-$ Query Sequence
-1️⃣ Top Paying Data Analyst Jobs
+$ Query Sequence \n
+#1️⃣ Top Paying Data Analyst Jobs
 Objective
 
 Identify the highest-paying remote Data Analyst jobs with disclosed salaries.
@@ -57,7 +57,7 @@ Key Insight
 High-paying Data Analyst roles are concentrated in remote positions.
 Salary transparency helps identify premium opportunities.
 Large organizations generally offer higher compensation packages.
-2️⃣ Skills Required for Top Paying Jobs
+#2️⃣ Skills Required for Top Paying Jobs
 Objective
 
 Determine which technical skills employers expect for the highest-paying analyst positions.
@@ -78,7 +78,7 @@ Cloud Technologies
 
 These roles rarely depend on a single skill, highlighting the value of a well-rounded technical skill set.
 
-3️⃣ Most In-Demand Skills
+#3️⃣ Most In-Demand Skills
 Objective
 
 Find the skills most frequently requested across remote Data Analyst job postings.
@@ -99,7 +99,7 @@ Insight
 
 SQL remains the most essential technical skill for Data Analysts, followed by Excel and Python. Visualization tools like Tableau and Power BI are also consistently in high demand.
 
-4️⃣ Highest Paying Skills
+#4️⃣ Highest Paying Skills
 Objective
 
 Analyze which technical skills are associated with the highest average salaries.
